@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Les pages vertes</title>
+</head>
+<body>
+  <div>
+    <h3>Durand plomberie</h3>
+
+    Contact :
+
+    <ul>
+
+      <li>au <a href="tel:+33123456789">0123456789 (non surtaxé)</a></li>
+      <li>ou <a href="mailto:durand-plomberie@example.com">contactez-nous par e-mail</a></li>
+    </ul>
+
+  </div>
+</body>
+</html>
